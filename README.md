@@ -1,5 +1,5 @@
 # Lab 05 - Practical Python: Command-Line Tools and Files
-
+# emmanuel 
 In this lab, we'll build small **command-line programs** - the kind you run from the
 terminal and pass arguments to, like the tools you've been using all term. You'll use
 the **`argparse`** module to read command-line arguments, and you'll **read files**
